@@ -5,7 +5,7 @@
 Figure 1 25 Images from the dataset with their labels
 ![25 Images from the dataset with their labels Results](https://user-images.githubusercontent.com/76955490/115043288-06901900-9edd-11eb-9d71-6f22dd3c929d.jpg)
 
-##Results
+## Results
 
  
 ### K-nearest neighbors Classifier
