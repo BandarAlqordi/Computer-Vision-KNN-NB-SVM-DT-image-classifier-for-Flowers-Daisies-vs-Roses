@@ -18,7 +18,7 @@ accuracy			0.71	319
 macro avg	0.72	0.71	0.71	319
 weighted avg	0.72	0.71	0.71	319
 
-###Naïve Bayes Classifier
+### Naïve Bayes Classifier
 
 Table 2 Classification report for flower dataset using Naïve Bayes
 	precision	recall	f1-score	support
@@ -33,7 +33,7 @@ CLASSIFIER	KNN	Naïve Bayes	SVM	Decision Tree
 ACCURACY	0.71	0.73	0.73	0.63
 
 
-###Support Vector Machine (SVM)
+### Support Vector Machine (SVM)
 Table 3 Classification report for flower dataset using Support Vector Machine (SVM)
 	precision	recall	f1-score	support
 daisy	0.69	0.78	0.73	149
@@ -43,7 +43,7 @@ accuracy			0.73	319
 macro avg	0.74	0.74	0.73	319
 weighted avg	0.74	0.73	0.73	319
 
-###Decision Tree Classifier
+### Decision Tree Classifier
 
 Table 4 Classification report for flower dataset using Decision Tree
 	precision	recall	f1-score	support
@@ -54,6 +54,6 @@ accuracy			0.63	319
 macro avg	0.63	0.63	0.63	319
 weighted avg	0.63	0.63	0.63	319
  
-##Conclusion
+## Conclusion
 	Although Naïve Bayes and SVM classifiers have the same accuracy of 73% the precision, recall, f1-score is slightly higher in the SVM classifier making it the better classifier for this case.
 
