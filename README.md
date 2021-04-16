@@ -55,5 +55,5 @@ macro avg	0.63	0.63	0.63	319
 weighted avg	0.63	0.63	0.63	319
  
 ## Conclusion
-	Although Naïve Bayes and SVM classifiers have the same accuracy of 73% the precision, recall, f1-score is slightly higher in the SVM classifier making it the better classifier for this case.
+Although Naïve Bayes and SVM classifiers have the same accuracy of 73% the precision, recall, f1-score is slightly higher in the SVM classifier making it the better classifier for this case.
 
