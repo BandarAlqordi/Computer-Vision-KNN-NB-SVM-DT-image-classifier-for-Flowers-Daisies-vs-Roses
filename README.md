@@ -3,6 +3,7 @@ Introduction
 	This report will investigate the accuracy of 4 image classifiers KNN, Naïve Bayes, Support Vector Machine (SVM), Decision Tree with a dataset consisting of 1273 images of flowers split into two labels daisy or rose. 
 	 
 Figure 1 25 Images from the dataset with their labels
+![alt text](https://taifedusa-my.sharepoint.com/:i:/g/personal/s43754580_students_tu_edu_sa/EcXA4TLkyC9Hl1tucYCiiQYBEkn5Ioe3_Rc4MKgTJwXA2g?e=lMcw2U)
 Results
 
  
