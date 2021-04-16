@@ -8,7 +8,7 @@ Figure 1 25 Images from the dataset with their labels
 ##Results
 
  
-###K-nearest neighbors Classifier
+### K-nearest neighbors Classifier
 Table 1 Classification report for flower dataset using KNN
 	precision	recall	f1-score	support
 daisy	0.73	0.61	0.67	149
